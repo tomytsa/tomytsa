@@ -2,7 +2,14 @@
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
   </a>
-  𝐇𝐞𝐥𝐥𝐨, I'm Tomas Tsangoulas
+  𝐇𝐞𝐥𝐥𝐨,
+  <a target="_blank">
+  </a>
+  <a target="_blank">
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
+  </a>
+  </a>
+  , I'm Tomas Tsangoulas
   <a target="_blank">
   </a>
 </h1>
