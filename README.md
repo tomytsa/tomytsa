@@ -9,7 +9,7 @@
 
 ### 🏆 &nbsp;About Me:
 
---👨‍💻 &nbsp;I am DATA ENGINEER.\
+--👨‍💻 &nbsp;I am a DATA ENGINEER.\
 --🎓 &nbsp;I am studying SYSTEMS ENGINEERING at the National Technological University (UTN).\
 --📚 &nbsp;English (Professional working proficiency).
 
